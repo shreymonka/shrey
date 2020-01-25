@@ -1,0 +1,50 @@
+.shrey{
+  text-align: center;
+  background-color: #e3fdfd;
+  }
+  .size{
+    margin-bottom: 0px;
+    font-family: 'Sacramento', cursive;
+    font-size: 75px;
+    color: #08d9d6;
+    margin-top: 0px;
+  } 
+ .hello{
+   text-align: center;
+   font-family: 'Josefin Sans', sans-serif;
+ }
+.hello1{
+  height: 180px;
+}
+.skills1{
+  height: 250px;
+  display: inline-block;
+
+}
+.skills{
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+}
+.Swimming{
+  height: 250px;
+}
+hr {
+
+ border-style: none;
+ border-top-style: dotted;
+ border-color: #018383;
+ border-width: 7px;
+ width: 10%;
+}
+.contact{
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.con{
+background-color: #e1f2fb;
+font-family: 'Noto Sans HK', sans-serif;
+}
+.conme{
+  height: 250px;
+}
