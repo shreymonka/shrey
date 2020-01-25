@@ -1,10 +1,13 @@
 .shrey{
   text-align: center;
-  font-family: 'Sacramento', cursive;
-  font-size: 75px;
+  background-color: #e3fdfd;
   }
   .size{
     margin-bottom: 0px;
+    font-family: 'Sacramento', cursive;
+    font-size: 75px;
+    color: #08d9d6;
+    margin-top: 0px;
   }
  .hello{
    text-align: center;
