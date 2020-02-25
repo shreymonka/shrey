@@ -104,10 +104,16 @@ height: 20px;
   color: #4b8e8d ;
 
 }
+.insta:hover{
+  color: #f6c89f;
+}
 .linkedin{
   text-decoration: none;
   color: #4b8e8d ;
 
+}
+.linkedin:hover{
+  color: #f6c89f;
 }
 .link{
   padding-top: 30px;
